@@ -1,0 +1,2 @@
+Developed a deep learning model utilizing convolutional neural networks (CNNs) to accurately classify dog breeds from images. For precise frontal face detection, I integrated OpenCV and HaarCascades. 
+To enhance the model's performance, I leveraged transfer learning with a pre-trained VGG16 model, along with techniques like data augmentation and hyperparameter tuning, resulting in high accuracy.
